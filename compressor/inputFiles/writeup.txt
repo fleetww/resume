@@ -1,0 +1,4 @@
+The average percent of storage space saved between the four texts files
+for my Program3 was 72.89%. The shortest amount of bits needed to represent
+a single character was 3, representing the characters that had the highest
+frequency in the source texts. 
